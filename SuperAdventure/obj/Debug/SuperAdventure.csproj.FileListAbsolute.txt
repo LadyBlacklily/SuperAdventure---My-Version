@@ -1,0 +1,11 @@
+c:\Programme\Programmieren\visual studio 2017\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+c:\Programme\Programmieren\visual studio 2017\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe
+c:\Programme\Programmieren\visual studio 2017\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.pdb
+c:\Programme\Programmieren\visual studio 2017\Projects\SuperAdventure\SuperAdventure\bin\Debug\Engine.dll
+c:\Programme\Programmieren\visual studio 2017\Projects\SuperAdventure\SuperAdventure\bin\Debug\Engine.pdb
+c:\Programme\Programmieren\visual studio 2017\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csprojResolveAssemblyReference.cache
+c:\Programme\Programmieren\visual studio 2017\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+c:\Programme\Programmieren\visual studio 2017\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.Cache
+c:\Programme\Programmieren\visual studio 2017\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
+c:\Programme\Programmieren\visual studio 2017\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb
+c:\Programme\Programmieren\visual studio 2017\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
